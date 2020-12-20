@@ -1,7 +1,3 @@
-##
-## Usage of this API can be found here: https://servicios.elpais.com/sorteos/loteria-navidad/api/
-##
-
 import requests
 import json
 
